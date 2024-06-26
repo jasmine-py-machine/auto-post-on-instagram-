@@ -1,0 +1,8 @@
+mimetypes
+rich
+colorama
+selenium
+tkinter
+requests
+thread
+alive_progress
