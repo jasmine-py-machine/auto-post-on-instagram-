@@ -1,10 +1,6 @@
 
 #PATH_TO_CHROME_DRIVER="chromedriver/chromedriver"
 
-FOLDER_NAME=""
-USERNAME=""
-PASSWORD=""
-PAGE_NAME=""
 
 EXTENSION="no"
 HEADLESS="yes"
